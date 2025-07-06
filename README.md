@@ -178,3 +178,10 @@ Integrate a more robust Java web framework (e.g., Spring Boot) for the backend.
 Deploy the application to a cloud platform (e.g., Google Cloud, AWS, Azure).
 
 Add unit and integration tests for both frontend and backend.
+
+Contact
+Feel free to connect with me for any questions or collaborations:
+
+GitHub: https://github.com/Juribe3271
+
+LinkedIn: [Your LinkedIn Profile Link] <!-- Replace with your actual LinkedIn profile link -->
