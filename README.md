@@ -74,7 +74,7 @@ High Engagement Among Specific Age Ranges: Age ranges such as "10 to 19 years", 
 
 Seasonal Usage Peaks: The data reveals clear seasonal patterns in library usage. There is a noticeable surge in activity (both checkouts and renewals) during specific months (e.g., May and July), indicating increased library engagement during certain periods of the year, possibly linked to school holidays, summer reading programs, or other community initiatives.
 
-Checkout vs. Renewal Ratios: While checkouts generally exceed renewals across all patron types and months, the specific ratio between them varies. Analyzing this ratio for different segments can offer deeper insights into user behavior and preferences (e.g., whether users prefer to keep items for longer periods or frequently borrow new ones).
+Checkout vs. Renewal Ratios: While checkouts generally exceed renewals across all patron types and months, the specific ratio between them varies. Analyzing this ratio for different segments can offer deeper insights into user behavior and preferences (e.g., whether users prefer to keep items longer or frequently borrow new ones).
 
 Setup and Running the Project
 To get the San Francisco Library Usage Dashboard running on your local machine, follow these steps:
@@ -178,10 +178,3 @@ Integrate a more robust Java web framework (e.g., Spring Boot) for the backend.
 Deploy the application to a cloud platform (e.g., Google Cloud, AWS, Azure).
 
 Add unit and integration tests for both frontend and backend.
-
-Contact
-Feel free to connect with me for any questions or collaborations:
-
-GitHub: https://github.com/Juribe3271
-
-LinkedIn: [Your LinkedIn Profile Link] <!-- Replace with your actual LinkedIn profile link -->
